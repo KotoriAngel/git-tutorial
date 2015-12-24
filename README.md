@@ -4,3 +4,4 @@ Again, I add a line.
 A line!
 
 feature-A
+ - fix-B

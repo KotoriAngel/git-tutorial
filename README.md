@@ -5,3 +5,4 @@ A line!
 
 feature-A
  - fix-B
+ - featura-C
